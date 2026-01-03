@@ -4,5 +4,7 @@
   "table-editor-obsidian",
   "templater-obsidian",
   "copilot",
-  "cm-typewriter-scroll-obsidian"
+  "cm-typewriter-scroll-obsidian",
+  "iron-vault",
+  "obsidian-text-expander-js"
 ]
