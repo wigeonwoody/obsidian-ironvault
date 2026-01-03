@@ -1,0 +1,23 @@
+# obsidian-baseline .gitignore
+
+# ---------------------------------
+# Ignore local OS / editor files
+# ---------------------------------
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# --------------------------------
+# Ignore the trash folder
+# --------------------------------
+.trash/
+
+# --------------------------------
+# Ignore Obsidian files
+# --------------------------------
+.obsidian/workspace.json
+.obsidian/plugins/copilot/data.json
+
